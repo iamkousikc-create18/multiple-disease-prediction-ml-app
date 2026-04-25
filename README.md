@@ -143,5 +143,8 @@ Deploy the app online
 Add user authentication and history tracking
 
 
-👨‍💻 Author
-Kousik Chakraborty
+✍ Author
+
+👤 Kousik Chakraborty 📧 Email: www.kousik.c.in@gmail.com 🔗 GitHub Profile: https://github.com/iamkousikc-create18 🔗 Project Repository: https://github.com/iamkousikc-create18/multiple-disease-prediction-ml-app
+
+
