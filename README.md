@@ -19,18 +19,23 @@ This project integrates multiple trained ML models into a single user-friendly i
 
 🗂️ Project Structure
 
+
 ├── saved_models/
+
 │   ├── diabetes_model.sav
 │   ├── heart_disease_model.sav
 │   └── parkinsons_model.sav
+
 ├── app.py
-├── diabetes_model_training.py
-├── heart_model_training.py
-├── parkinsons_model_training.py
+├── Multiple disease prediction system - diabetes.ipynb
+├── Multiple disease prediction system - heart.ipynb
+├── Multiple disease prediction system - Parkinsons.ipynb
+
 ├── datasets/
 │   ├── diabetes.csv
 │   ├── heart.csv
 │   └── parkinsons.csv
+
 ├── requirements.txt
 └── README.md
 
